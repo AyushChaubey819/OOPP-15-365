@@ -1,0 +1,9 @@
+*
+**/*
+*.exe
+
+# whitelist files with extension and sour
+
+!*.*
+!**/*.*
+!**/*.cpp
