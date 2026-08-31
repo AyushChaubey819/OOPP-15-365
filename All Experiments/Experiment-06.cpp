@@ -13,7 +13,8 @@ public:
     }
     Demo(int v){
         value = v;
-        cout << "Parameterized constructor called." << endl;
+        cout << "Par: " ;
+        cout<<"ameterized constructor called." << endl;
     }
 
     Demo(const Demo &obj){
